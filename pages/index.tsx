@@ -7,7 +7,7 @@ import {
 } from "@uniformdev/canvas";
 import { Composition, Slot } from "@uniformdev/canvas-react";
 import resolveRenderer from "../lib/resolveRenderer";
-import { useLivePreviewNextStaticProps } from "../hooks/useLivePreviewNextStaticProps";
+import { useLivePreviewNextStaticProps } from "../Hooks/useLivePreviewNextStaticProps";
 import getConfig from "next/config";
 import doEnhance from "../lib/enhancer";
 
