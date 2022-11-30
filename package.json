@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@contentful/rich-text-html-renderer": "^15.15.1",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
     "@uniformdev/canvas": "^17.5.0",
+    "@uniformdev/canvas-contentful": "^17.5.0",
     "@uniformdev/canvas-react": "^17.5.0",
     "@uniformdev/cli": "^17.5.0",
+    "contentful": "^9.2.13",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.5",
     "next": "13.0.5",
